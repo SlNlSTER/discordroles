@@ -19,4 +19,4 @@ server_exports {
   'getUserData',
 }
 
-client_script "@Badger-Anticheat/acloader.lua"
+
